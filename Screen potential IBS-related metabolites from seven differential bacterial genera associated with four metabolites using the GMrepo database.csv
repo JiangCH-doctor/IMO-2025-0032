@@ -1,0 +1,31 @@
+﻿Screen potential IBS-related metabolites from seven differential bacterial genera associated with four metabolites using the GMrepo database  ,,,,
+Species,found in nr. of runs of the respective phenotype,abundance statics,,
+,,median,mean,SD
+Bilophila wadsworthia,324 (32.335%),0.196,0.08983,0.32054
+Holdemanella biformis ,283 (28.244%),0.44799,0.08028,1.07398
+Bacteroides uniformis  ,488 (48.703%),3.93701,2.13819,4.57188
+Bacteroides vulgatus  ,485 (48.403%),4.82948,1.56412,7.09394
+Bacteroides ovatus  ,485 (48.403%),2.05077,0.99946,3.60288
+Bacteroides thetaiotaomicron  ,480 (47.904%),0.99897,0.57632,1.41463
+Bacteroides dorei  ,466 (46.507%),1.18599,0.21319,3.25327
+Bacteroides xylanisolvens  ,455 (45.409%),0.37775,0.07409,1.08489
+Bacteroides caccae  ,452 (45.110%),1.01763,0.37923,2.0388
+Bacteroides stercoris  ,450 (44.910%),1.07936,0.10157,2.59097
+Bacteroides massiliensis  ,449 (44.810%),1.19492,0.14451,2.34561
+Bacteroides intestinalis  ,443 (44.212%),0.31422,0.08809,0.72135
+Bacteroides cellulosilyticus  ,435 (43.413%),0.48022,0.07603,1.30212
+Bacteroides fragilis  ,427 (42.615%),0.58858,0.08621,1.54234
+Bacteroides eggerthii  ,422 (42.116%),0.86832,0.05546,2.65603
+Bacteroides coprocola  ,422 (42.116%),1.89668,0.08144,4.58189
+Bacteroides nordii  ,373 (37.226%),0.08138,0.01889,0.19885
+Bacteroides luti  ,315 (31.437%),0.97058,0.26476,1.73835
+Bacteroides plebeius  ,291 (29.042%),1.55454,0.01188,4.52419
+Bacteroides coprophilus  ,265 (26.447%),0.3048,0.01184,0.90787
+Bacteroides fluxus  ,262 (26.148%),0.13384,0.04758,0.32674
+Bacteroides salyersiae  ,227 (22.655%),0.13578,0.01189,0.36961
+Bacteroides rodentium  ,206 (20.559%),0.03062,0.01321,0.07449
+Bacteroides finegoldii  ,195 (19.461%),0.1965,0.02443,0.51416
+Bacteroides oleiciplenus  ,181 (18.064%),0.09605,0.01405,0.30758
+Bacteroides acidifaciens  ,153 (15.269%),0.17526,0.08289,0.37199
+Bacteroides sp. CIP103040  ,47 (4.691%),0.12195,0.01999,0.24117
+"IBS, irritable bowel syndrome; GMrepo, data repository for gut microbiota; nr. of samples, number of samples; SD, standard deviation.",,,,

@@ -1,0 +1,7 @@
+﻿Screen potential IBS-related metabolites from six differential metabolites using GMMAD database ,,,,,,
+Disease,MeSH ID,Metabolite,PubChem ID,Alteration,Association score,Confidence score
+Irritable Bowel Syndrome,D043183,L-Lysine,5962,Increase,0.065075213,13.4
+Irritable Bowel Syndrome,D043183,L-Proline,145742,Increase,0.065075213,13.4
+Irritable Bowel Syndrome,D043183,Citrulline,9750,Increase,0.046893394,9.57
+Irritable Bowel Syndrome,D043183,Acetylcholine,187,Decrease,-0.088162198,4.67
+"IBS, irritable bowel syndrome; GMMAD, gut microbial metabolite association with disease. ",,,,,,

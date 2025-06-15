@@ -1,0 +1,86 @@
+﻿Spearman correlations between differential intestinal microbes and metabolites ,,,,
+Gut Microbes,Metabolites,Correlation,p-value,relation
+Ruminococcaceae_UCG-008,L-Lysine,-0.449113926,0.004130765,negtive
+Holdemanella,L-Lysine,-0.363825272,0.022796989,negtive
+Bacteroides,L-Lysine,0.333603239,0.038493379,positive
+Holdemanella,Citrulline,-0.406658456,0.010197795,negtive
+Holdemanella,L-Proline,-0.395873122,0.012608333,negtive
+Ruminococcaceae_UCG-008,L-Proline,-0.359047246,0.024785137,negtive
+Ruminococcaceae_UCG-007,L-Proline,0.351973812,0.027991049,positive
+Bacteroides,L-Proline,0.339878543,0.034827304,positive
+Ruminococcaceae_UCG-008,2-Hydroxycinnamic acid,-0.494408581,0.001377985,negtive
+Holdemanella,2-Hydroxycinnamic acid,-0.533925399,0.000464141,negtive
+Erysipelatoclostridium,2-Hydroxycinnamic acid,0.412472132,0.009070074,positive
+Bacteroides,2-Hydroxycinnamic acid,0.372469636,0.020116206,positive
+Tyzzerella_3,2-Hydroxycinnamic acid,-0.353734234,0.027162797,negtive
+Faecalitalea,2-Hydroxycinnamic acid,0.34540791,0.031266378,positive
+Ramlibacter,Acetylcholine,0.328894404,0.040915504,positive
+Bilophila,Acetylcholine,-0.396234064,0.012520471,negtive
+Plesiomonas,Acetylcholine,0.353316159,0.027357635,positive
+Ruminococcaceae_UCG-007,2-Hydroxycinnamic acid,0.286631016,0.076876997,positive
+Bilophila,2-Hydroxycinnamic acid,0.283053255,0.080800189,positive
+Plesiomonas,2-Hydroxycinnamic acid,-0.072492059,0.660979408,negtive
+Ramlibacter,2-Hydroxycinnamic acid,-0.035869799,0.828373336,negtive
+Ruminococcaceae_UCG-008,Acetylcholine,-0.003309994,0.984044651,negtive
+Tyzzerella_3,Acetylcholine,0.276148526,0.08881046,positive
+Bacteroides,Acetylcholine,-0.163765182,0.317928156,negtive
+Ruminococcaceae_UCG-007,Acetylcholine,-0.142483597,0.386881653,negtive
+Erysipelatoclostridium,Acetylcholine,0.130190319,0.429553229,positive
+Holdemanella,Acetylcholine,0.100765836,0.541619919,positive
+Faecalitalea,Acetylcholine,-0.05734452,0.72877879,negtive
+Bacteroides,Citrulline,0.307894737,0.056968618,positive
+Ruminococcaceae_UCG-007,Citrulline,0.290412428,0.072893955,positive
+Ruminococcaceae_UCG-008,Citrulline,-0.249991654,0.124810802,negtive
+Tyzzerella_3,Citrulline,-0.20799573,0.203863287,negtive
+Bilophila,Citrulline,0.207329423,0.205348392,positive
+Erysipelatoclostridium,Citrulline,0.132116811,0.422698292,positive
+Faecalitalea,Citrulline,0.103034489,0.532509406,positive
+Ramlibacter,Citrulline,0.047738482,0.772893948,positive
+Plesiomonas,Citrulline,0.01476282,0.928923781,positive
+Tyzzerella_3,L-Lysine,-0.241954216,0.137810866,negtive
+Erysipelatoclostridium,L-Lysine,0.221749399,0.174867108,positive
+Ruminococcaceae_UCG-007,L-Lysine,0.212364088,0.194312289,positive
+Bilophila,L-Lysine,0.205507192,0.209448343,positive
+Faecalitalea,L-Lysine,0.205347014,0.209811436,positive
+Ramlibacter,L-Lysine,0.089674497,0.587203872,positive
+Plesiomonas,L-Lysine,-0.041534204,0.801775308,negtive
+Faecalitalea,L-Proline,0.30281207,0.060958605,positive
+Erysipelatoclostridium,L-Proline,0.278631617,0.085862052,positive
+Bilophila,L-Proline,0.26098401,0.108544838,positive
+Tyzzerella_3,L-Proline,-0.13866382,0.399866942,negtive
+Ramlibacter,L-Proline,-0.040353524,0.807302273,negtive
+Plesiomonas,L-Proline,-0.024127296,0.884084234,negtive
+Plesiomonas,D-Glucuronic acid,-0.371604429,0.019844942,negtive
+HIMB11,D-Glucuronic acid,-0.340447923,0.033944297,negtive
+Finegoldia,D-Glucuronic acid,-0.326865238,0.042252202,negtive
+Bilophila,D-Glucuronic acid,0.26118648,0.108261114,positive
+Erysipelatoclostridium,D-Glucuronic acid,0.220532667,0.177306231,positive
+Tyzzerella_3,D-Glucuronic acid,-0.197855348,0.227283895,negtive
+Faecalitalea,D-Glucuronic acid,0.169764533,0.301505931,positive
+Ruminococcaceae_UCG-007,D-Glucuronic acid,0.154886628,0.346451468,positive
+Ruminococcaceae_UCG-008,D-Glucuronic acid,-0.108881382,0.509377671,negtive
+Holdemanella,D-Glucuronic acid,-0.077962558,0.637102076,negtive
+Ramlibacter,D-Glucuronic acid,-0.048002231,0.771672541,negtive
+Bacteroides,D-Glucuronic acid,0.032995951,0.841662789,positive
+Coriobacteriaceae_UCG-002,D-Glucuronic acid,0.508704769,0.000943649,positive
+Weissella,D-Glucuronic acid,-0.418475651,0.008019259,negtive
+Weissella,L-Lysine,-0.218617278,0.181194982,negtive
+HIMB11,L-Lysine,-0.164900594,0.315770293,negtive
+Finegoldia,L-Lysine,0.080014674,0.628235842,positive
+Coriobacteriaceae_UCG-002,L-Lysine,0.067332041,0.683809391,positive
+HIMB11,L-Proline,-0.065118403,0.693690481,negtive
+Finegoldia,L-Proline,0.149290139,0.364363911,positive
+Weissella,L-Proline,-0.14023548,0.394493967,negtive
+Coriobacteriaceae_UCG-002,L-Proline,0.073935533,0.654645577,positive
+HIMB11,Citrulline,0.031692607,0.848111313,positive
+Finegoldia,Citrulline,0.005596489,0.973026133,positive
+Weissella,Citrulline,-0.211924912,0.195258008,negtive
+Coriobacteriaceae_UCG-002,Citrulline,0.172044566,0.294963284,positive
+Coriobacteriaceae_UCG-002,Acetylcholine,-0.068982914,0.676473873,negtive
+HIMB11,Acetylcholine,-0.05570966,0.736230607,negtive
+Finegoldia,Acetylcholine,0.034183963,0.83632742,positive
+Weissella,Acetylcholine,0.250152516,0.124560327,positive
+Weissella,2-Hydroxycinnamic acid,-0.238288777,0.144060996,negtive
+Coriobacteriaceae_UCG-002,2-Hydroxycinnamic acid,0.19751518,0.22810016,positive
+Finegoldia,2-Hydroxycinnamic acid,-0.068821695,0.677188952,negtive
+HIMB11,2-Hydroxycinnamic acid,-0.266415975,0.101126237,negtive

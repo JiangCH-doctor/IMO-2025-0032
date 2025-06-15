@@ -1,0 +1,19 @@
+﻿ Intestinal and psychiatric diseases correlated with Holdemanella biformis were analysed using the GMrepo database  ,,,,
+phenotype,found in nr. Of samples of the respective phenotype,Abundance statics,,
+,,median,mean,SD
+Depression,0.8% (3/358 valid runs),0.07227,0.0794,0.0302
+Alzheimer Disease,0.9% (2/212 valid runs),1.42664,1.42664,1.94316
+Autism Spectrum Disorder,8.6% (52/606 valid runs),0.02567,0.36545,0.60427
+Crohn Disease,9.5% (183/1920 valid runs),0.0434,0.4325,1.1764
+Celiac Disease,10.6% (7/66 valid runs),0.0734,0.22477,0.42099
+Intestinal Diseases,15.4% (52/337 valid runs),0.0254,0.2343,0.4235
+"Colitis, Ulcerative",16.5% (304/1840 valid runs),0.1073,1.1654,2.1813
+Inflammatory Bowel Diseases,19.3% (117/605 valid runs),0.0701,0.7422,1.3596
+Attention Deficit Disorder with Hyperactivity,27.1% (51/188 valid runs),0.08974,0.72575,1.62495
+Constipation,27.7% (184/665 valid runs),0.047,0.3732,0.705
+Irritable Bowel Syndrome,28.2% (283/1002 valid runs),0.0803,0.448,1.074
+Colorectal Neoplasms,28.5% (483/1697 valid runs),0.1841,0.837,1.4438
+Diarrhea,30.8% (158/513 valid runs),0.021,0.4196,0.9079
+Bipolar Disorder,33.5% (149/445 valid runs),0.06108,0.52011,1.11351
+Colonic Diseases,49.9% (180/361 valid runs),0.0147,0.5435,1.2845
+"GMrepo, data repository for gut microbiota; nr. of samples, number of samples; SD, standard deviation.  ",,,,

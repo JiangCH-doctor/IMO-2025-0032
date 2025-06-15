@@ -1,0 +1,9 @@
+﻿Enrichment pathways of intestinal diseases for six differential metabolites according to the MetaboAnalyst database,,,
+,Enrichment Ratio,P Value,FDR
+Irritable bowel syndrome,7.78,0.02,0.43
+Unclassified Ibd,3.79,0.24,1
+Celiac disease,3.25,0.28,1
+Crohn's Disease,2.71,0.58,1.43
+Ulcerative colitis,2.08,0.71,1.43
+Colorectal cancer,0.76,1.56,2
+"IBD, inflammatory bowel disease; FDR, false discovery rate.",,,
