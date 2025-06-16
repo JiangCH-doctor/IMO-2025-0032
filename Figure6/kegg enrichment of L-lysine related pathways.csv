@@ -1,0 +1,10 @@
+﻿id,Classification_level1,Classification_level2,Term,ListHits,ListTotal,PopHits,PopTotal,p-value,q-value,Enrichment_score,Substances
+ko00310,Metabolism,Amino acid metabolism,Lysine degradation,5,63,56,6288,0.000221610571428247,0.00327983645713805,8.91156462585034,"C00037,C00047,C01186,C02727,C03793"
+ko04974,Organismal Systems,Digestive system,Protein digestion and absorption,3,63,29,6288,0.00290891380848263,0.0253246613914958,10.3251231527094,"C00037,C00047,C00483"
+ko00470,Metabolism,Metabolism of other amino acids,D-Amino acid metabolism,4,63,69,6288,0.00486252959538516,0.0316148941537378,5.78605935127674,"C00037,C00047,C00624,C05942"
+ko02010,Environmental Information Processing,Membrane transport,ABC transporters,3,63,93,6288,0.0658957889324104,0.173751834887051,3.21966205837174,"C00031,C00047,C00794"
+ko00970,Genetic Information Processing,Translation,Aminoacyl-tRNA biosynthesis,2,63,52,6288,0.0952512690751357,0.197041029989248,3.83882783882784,"C00037,C00047"
+ko00997,Metabolism,Biosynthesis of other secondary metabolites,Biosynthesis of various other secondary metabolites,2,63,67,6288,0.144681709596301,0.243328329775596,2.97938877043355,"C00047,C00085"
+ko00780,Metabolism,Metabolism of cofactors and vitamins,Biotin metabolism,1,63,29,6288,0.253734777112798,0.329410061514861,3.44170771756979,C00047
+ko00300,Metabolism,Amino acid metabolism,Lysine biosynthesis,1,63,35,6288,0.29770211667509,0.376580455281311,2.85170068027211,C00047
+ko00960,Metabolism,Biosynthesis of other secondary metabolites,"Tropane, piperidine and pyridine alkaloid biosynthesis",1,63,72,6288,0.517684875969864,0.539558884813661,1.38624338624339,C00047

@@ -1,0 +1,14 @@
+﻿Term,ListHits,ListTotal,p-value,Percent,Type
+Glycolysis / Gluconeogenesis,7,51,3.42E-09,0.137254902,Down
+Galactose metabolism,7,51,6.34E-08,0.137254902,Down
+Phosphotransferase system (PTS),7,51,1.15E-07,0.137254902,Down
+Fructose and mannose metabolism,7,51,2.27E-07,0.137254902,Down
+Glucagon signaling pathway,4,51,4.28E-05,0.078431373,Down
+Pentose phosphate pathway,4,51,0.000208133,0.078431373,Down
+Amino sugar and nucleotide sugar metabolism,6,51,0.000347576,0.117647059,Down
+Efferocytosis,3,51,0.000603187,0.058823529,Down
+Streptomycin biosynthesis,3,51,0.000902327,0.058823529,Down
+Purine metabolism,5,51,0.001265972,0.098039216,Down
+Pantothenate and CoA biosynthesis,2,11,0.001178456,0.181818182,Up
+beta-Alanine metabolism,2,11,0.001341147,0.181818182,Up
+Cysteine and methionine metabolism,2,11,0.00578188,0.181818182,Up

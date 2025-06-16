@@ -1,0 +1,14 @@
+node	type	name	regulation
+C00483	Met	Tyramine	up
+C01172	Met	Beta-D-Glucose 6-Phosphate	down
+C00074	Met	Phosphoenolpyruvic Acid	up
+C00117	Met	D-(-)-Ribofuranose	up
+C00111	Met	Dihydroxyacetone Phosphate	down
+C00221	Met	D-Glucose	down
+ko00680	map	Methane_metabolism	unknown
+ko00030	map	Pentose_phosphate_pathway	unknown
+C00031	Met	Glucose	down
+C00037	Met	Glycine	up
+C00184	Met	Dihydroxyacetone	down
+C00085	Met	Fructose 6-Phosphate	down
+K08093	RNA	EUBIFOR_RS02295	down

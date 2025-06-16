@@ -1,0 +1,336 @@
+{
+    "data": [],
+    "directed": false,
+    "multigraph": false,
+    "elements": {
+        "nodes": [
+            {
+                "data": {
+                    "type": "Met",
+                    "name": "Glucose",
+                    "regulation": "down",
+                    "size": 200.0,
+                    "shape": "s",
+                    "color": "#6aa9d7",
+                    "label": "Glucose",
+                    "alpha": 0.75,
+                    "edge_width": 3,
+                    "edge_color": "#007cd7",
+                    "id": "C00031",
+                    "value": "C00031"
+                }
+            },
+            {
+                "data": {
+                    "type": "map",
+                    "name": "Pentose_phosphate_pathway",
+                    "regulation": "unknown",
+                    "size": 700.0,
+                    "shape": "^",
+                    "color": "#A9A9A9",
+                    "label": "Pentose_phosphate_pathway",
+                    "alpha": 0.75,
+                    "edge_width": 3,
+                    "edge_color": "#696969",
+                    "id": "ko00030",
+                    "value": "ko00030"
+                }
+            },
+            {
+                "data": {
+                    "type": "Met",
+                    "name": "D-Glucose",
+                    "regulation": "down",
+                    "size": 200.0,
+                    "shape": "s",
+                    "color": "#6aa9d7",
+                    "label": null,
+                    "alpha": 0.75,
+                    "edge_width": 0,
+                    "edge_color": "#ffffff",
+                    "id": "C00221",
+                    "value": "C00221"
+                }
+            },
+            {
+                "data": {
+                    "type": "Met",
+                    "name": "D-(-)-Ribofuranose",
+                    "regulation": "up",
+                    "size": 200.0,
+                    "shape": "s",
+                    "color": "#ffaf5b",
+                    "label": null,
+                    "alpha": 0.75,
+                    "edge_width": 0,
+                    "edge_color": "#ffffff",
+                    "id": "C00117",
+                    "value": "C00117"
+                }
+            },
+            {
+                "data": {
+                    "type": "Met",
+                    "name": "Beta-D-Glucose 6-Phosphate",
+                    "regulation": "down",
+                    "size": 200.0,
+                    "shape": "s",
+                    "color": "#6aa9d7",
+                    "label": null,
+                    "alpha": 0.75,
+                    "edge_width": 0,
+                    "edge_color": "#ffffff",
+                    "id": "C01172",
+                    "value": "C01172"
+                }
+            },
+            {
+                "data": {
+                    "type": "Met",
+                    "name": "Fructose 6-Phosphate",
+                    "regulation": "down",
+                    "size": 300.0,
+                    "shape": "s",
+                    "color": "#6aa9d7",
+                    "label": "Fructose 6-Phosphate",
+                    "alpha": 0.75,
+                    "edge_width": 3,
+                    "edge_color": "#007cd7",
+                    "id": "C00085",
+                    "value": "C00085"
+                }
+            },
+            {
+                "data": {
+                    "type": "RNA",
+                    "name": "EUBIFOR_RS02295",
+                    "regulation": "down",
+                    "size": 300.0,
+                    "shape": "o",
+                    "color": "#6aa9d7",
+                    "label": "EUBIFOR_RS02295",
+                    "alpha": 0.75,
+                    "edge_width": 3,
+                    "edge_color": "#007cd7",
+                    "id": "K08093",
+                    "value": "K08093"
+                }
+            },
+            {
+                "data": {
+                    "type": "Met",
+                    "name": "Phosphoenolpyruvic Acid",
+                    "regulation": "up",
+                    "size": 200.0,
+                    "shape": "s",
+                    "color": "#ffaf5b",
+                    "label": null,
+                    "alpha": 0.75,
+                    "edge_width": 0,
+                    "edge_color": "#ffffff",
+                    "id": "C00074",
+                    "value": "C00074"
+                }
+            },
+            {
+                "data": {
+                    "type": "map",
+                    "name": "Methane_metabolism",
+                    "regulation": "unknown",
+                    "size": 800.0,
+                    "shape": "^",
+                    "color": "#A9A9A9",
+                    "label": "Methane_metabolism",
+                    "alpha": 0.75,
+                    "edge_width": 3,
+                    "edge_color": "#696969",
+                    "id": "ko00680",
+                    "value": "ko00680"
+                }
+            },
+            {
+                "data": {
+                    "type": "Met",
+                    "name": "Glycine",
+                    "regulation": "up",
+                    "size": 200.0,
+                    "shape": "s",
+                    "color": "#ffaf5b",
+                    "label": null,
+                    "alpha": 0.75,
+                    "edge_width": 0,
+                    "edge_color": "#ffffff",
+                    "id": "C00037",
+                    "value": "C00037"
+                }
+            },
+            {
+                "data": {
+                    "type": "Met",
+                    "name": "Dihydroxyacetone Phosphate",
+                    "regulation": "down",
+                    "size": 200.0,
+                    "shape": "s",
+                    "color": "#6aa9d7",
+                    "label": null,
+                    "alpha": 0.75,
+                    "edge_width": 0,
+                    "edge_color": "#ffffff",
+                    "id": "C00111",
+                    "value": "C00111"
+                }
+            },
+            {
+                "data": {
+                    "type": "Met",
+                    "name": "Dihydroxyacetone",
+                    "regulation": "down",
+                    "size": 200.0,
+                    "shape": "s",
+                    "color": "#6aa9d7",
+                    "label": null,
+                    "alpha": 0.75,
+                    "edge_width": 0,
+                    "edge_color": "#ffffff",
+                    "id": "C00184",
+                    "value": "C00184"
+                }
+            },
+            {
+                "data": {
+                    "type": "Met",
+                    "name": "Tyramine",
+                    "regulation": "up",
+                    "size": 200.0,
+                    "shape": "s",
+                    "color": "#ffaf5b",
+                    "label": null,
+                    "alpha": 0.75,
+                    "edge_width": 0,
+                    "edge_color": "#ffffff",
+                    "id": "C00483",
+                    "value": "C00483"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "width": 1,
+                    "color": "#808080",
+                    "alpha": 0.5,
+                    "source": "C00031",
+                    "target": "ko00030"
+                }
+            },
+            {
+                "data": {
+                    "width": 1,
+                    "color": "#808080",
+                    "alpha": 0.5,
+                    "source": "ko00030",
+                    "target": "C00221"
+                }
+            },
+            {
+                "data": {
+                    "width": 1,
+                    "color": "#808080",
+                    "alpha": 0.5,
+                    "source": "ko00030",
+                    "target": "C00117"
+                }
+            },
+            {
+                "data": {
+                    "width": 1,
+                    "color": "#808080",
+                    "alpha": 0.5,
+                    "source": "ko00030",
+                    "target": "C01172"
+                }
+            },
+            {
+                "data": {
+                    "width": 1,
+                    "color": "#808080",
+                    "alpha": 0.5,
+                    "source": "ko00030",
+                    "target": "C00085"
+                }
+            },
+            {
+                "data": {
+                    "width": 1,
+                    "color": "#808080",
+                    "alpha": 0.5,
+                    "source": "ko00030",
+                    "target": "K08093"
+                }
+            },
+            {
+                "data": {
+                    "width": 1,
+                    "color": "#808080",
+                    "alpha": 0.5,
+                    "source": "C00085",
+                    "target": "ko00680"
+                }
+            },
+            {
+                "data": {
+                    "width": 1,
+                    "color": "#808080",
+                    "alpha": 0.5,
+                    "source": "K08093",
+                    "target": "ko00680"
+                }
+            },
+            {
+                "data": {
+                    "width": 1,
+                    "color": "#808080",
+                    "alpha": 0.5,
+                    "source": "C00074",
+                    "target": "ko00680"
+                }
+            },
+            {
+                "data": {
+                    "width": 1,
+                    "color": "#808080",
+                    "alpha": 0.5,
+                    "source": "ko00680",
+                    "target": "C00037"
+                }
+            },
+            {
+                "data": {
+                    "width": 1,
+                    "color": "#808080",
+                    "alpha": 0.5,
+                    "source": "ko00680",
+                    "target": "C00111"
+                }
+            },
+            {
+                "data": {
+                    "width": 1,
+                    "color": "#808080",
+                    "alpha": 0.5,
+                    "source": "ko00680",
+                    "target": "C00184"
+                }
+            },
+            {
+                "data": {
+                    "width": 1,
+                    "color": "#808080",
+                    "alpha": 0.5,
+                    "source": "ko00680",
+                    "target": "C00483"
+                }
+            }
+        ]
+    }
+}
