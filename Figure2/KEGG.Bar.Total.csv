@@ -1,0 +1,21 @@
+﻿id,Classification_level1,Classification_level2,Term,ListHits,ListTotal,PopHits,PopTotal,p-value,q-value,Enrichment_score,Substances
+mmu00380,Metabolism,Amino acid metabolism,Tryptophan metabolism,6,10,83,3220,4.73E-08,1.33E-06,23.27710843,"C00078,C00955,C00978,C01717,C03227,C05635"
+mmu04726,Organismal Systems,Nervous system,Serotonergic synapse,2,10,17,3220,0.001151853,0.016125944,37.88235294,"C00078,C05635"
+mmu00970,Genetic Information Processing,Translation,Aminoacyl-tRNA biosynthesis,2,10,52,3220,0.010596703,0.082658654,12.38461538,"C00078,C00135"
+mmu00760,Metabolism,Metabolism of cofactors and vitamins,Nicotinate and nicotinamide metabolism,2,10,55,3220,0.011808379,0.082658654,11.70909091,"C00042,C00253"
+mmu05143,Human Diseases,Infectious disease: parasitic,African trypanosomiasis,1,10,8,3220,0.024602804,0.122670999,40.25,C00078
+mmu04727,Organismal Systems,Nervous system,GABAergic synapse,1,10,9,3220,0.027639533,0.122670999,35.77777778,C00042
+mmu05133,Human Diseases,Infectious disease: bacterial,Pertussis,1,10,10,3220,0.03066775,0.122670999,32.2,C00253
+mmu00190,Metabolism,Energy metabolism,Oxidative phosphorylation,1,10,16,3220,0.048659494,0.16126159,20.125,C00042
+mmu00020,Metabolism,Carbohydrate metabolism,Citrate cycle (TCA cycle),1,10,20,3220,0.060486429,0.16126159,16.1,C00042
+mmu04024,Environmental Information Processing,Signal transduction,cAMP signaling pathway,1,10,25,3220,0.075083934,0.16126159,12.88,C00042
+mmu04922,Organismal Systems,Endocrine system,Glucagon signaling pathway,1,10,25,3220,0.075083934,0.16126159,12.88,C00042
+mmu00250,Metabolism,Amino acid metabolism,"Alanine, aspartate and glutamate metabolism",1,10,28,3220,0.083744141,0.16126159,11.5,C00042
+mmu00750,Metabolism,Metabolism of cofactors and vitamins,Vitamin B6 metabolism,1,10,29,3220,0.086614617,0.16126159,11.10344828,C00847
+mmu05230,Human Diseases,Cancer: overview,Central carbon metabolism in cancer,1,10,30,3220,0.089476997,0.16126159,10.73333333,C00042
+mmu00410,Metabolism,Metabolism of other amino acids,beta-Alanine metabolism,1,10,32,3220,0.095177549,0.16126159,10.0625,C00135
+mmu00620,Metabolism,Carbohydrate metabolism,Pyruvate metabolism,1,10,32,3220,0.095177549,0.16126159,10.0625,C00042
+mmu00920,Metabolism,Energy metabolism,Sulfur metabolism,1,10,34,3220,0.100845961,0.16126159,9.470588235,C00042
+mmu00400,Metabolism,Amino acid metabolism,"Phenylalanine, tyrosine and tryptophan biosynthesis",1,10,35,3220,0.103668165,0.16126159,9.2,C00078
+mmu00640,Metabolism,Carbohydrate metabolism,Propanoate metabolism,1,10,41,3220,0.120434614,0.173296521,7.853658537,C00042
+mmu00340,Metabolism,Amino acid metabolism,Histidine metabolism,1,10,47,3220,0.13691827,0.173296521,6.85106383,C00135
