@@ -1,4 +1,0 @@
-﻿KEGG metabolic pathway enrichment of serum neurotransmitters in germ-free IBS-D mice,,,,,,,,,,,
-id,Classification_level1,Classification_level2,Term,ListHits,ListTotal,PopHits,PopTotal,p-value,q-value,Enrichment_score,Substances
-mmu00380,Metabolism,Amino acid metabolism,Tryptophan metabolism,1,1,83,3220,0.025776398,0.025776398,38.79518072,C00954
-"KEGG, Kyoto encyclopedia of genes and genomes; IBS-D, diarrhea-predominant irritable bowel syndrome. ",,,,,,,,,,,
