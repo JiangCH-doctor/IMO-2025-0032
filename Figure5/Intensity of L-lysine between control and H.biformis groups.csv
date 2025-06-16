@@ -1,0 +1,8 @@
+﻿Intensity of L-lysine between control and H.biformis groups,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ID,m/z,Retention time (min),Ion mode,Metabolites,cid,cidlink,HMDB,METLIN,Lipidmaps,ChEBI,KEGG,ID Annotation,Annotation,PubChem,CAS,smiles,InChIKey,Super Class,Class,Sub Class,level,Score,Fragmentation Score/Total spectrum similarity,Adducts,Formula,Mass Error (ppm),Average RI,VIP,Average(blank),Average(Holdemanella),FoldChange,log2FoldChange,Regulation,p-value,q-value,blank1,blank2,blank3,H1,H2,H3,H4,H5,H6
+648,174.1428,19.88,GCMS,L-Lysine,46915,http://funmeta.oebiotech.com/network/46915,HMDB0000182,25,,18019,C00047,"ko00300,ko00310,ko00470,ko00780,ko00960,ko00970,ko00997,ko02010,ko04974","Lysine biosynthesis|Lysine degradation|D-Amino acid metabolism|Biotin metabolism|Tropane, piperidine and pyridine alkaloid biosynthesis|Aminoacyl-tRNA biosynthesis|Biosynthesis of various other secondary metabolites|ABC transporters|Protein digestion and absorption",5962,56-87-1,NCCCC[C@H](N)C(O)=O,KDXKERNSBIXSRK-YFKPBYRVSA-N,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Level 1,95.3,93.9,,C6H14N2O2,,665548.4219,0.535029596,5754543.337,5294659.281,1.086858102,0.120163597,Up,0.029306351,0.078644304,5840581.301,5721328.259,5701720.452,5248605.566,5521461.68,5083300.278,5249266.221,5708548.338,4956773.604
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
